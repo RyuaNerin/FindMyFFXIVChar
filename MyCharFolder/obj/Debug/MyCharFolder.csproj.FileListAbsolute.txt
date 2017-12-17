@@ -1,0 +1,9 @@
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\bin\Debug\MyCharFolder.exe.config
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\bin\Debug\MyCharFolder.exe
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\bin\Debug\MyCharFolder.pdb
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\obj\Debug\MyCharFolder.csprojResolveAssemblyReference.cache
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\obj\Debug\MyCharFolder.Form1.resources
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\obj\Debug\MyCharFolder.Properties.Resources.resources
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\obj\Debug\MyCharFolder.csproj.GenerateResource.Cache
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\obj\Debug\MyCharFolder.exe
+c:\users\laighlinne\documents\visual studio 2017\Projects\MyCharFolder\MyCharFolder\obj\Debug\MyCharFolder.pdb
